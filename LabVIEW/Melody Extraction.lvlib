@@ -6,6 +6,7 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Item Name="Create waveform.vi" Type="VI" URL="../Create waveform.vi"/>
 	<Item Name="dt_global.vi" Type="VI" URL="../dt_global.vi"/>
+	<Item Name="Find peaks.vi" Type="VI" URL="../Find peaks.vi"/>
 	<Item Name="Get_data.vi" Type="VI" URL="../Get_data.vi"/>
 	<Item Name="ms to samples.vi" Type="VI" URL="../ms to samples.vi"/>
 	<Item Name="Sinusoidal Extraction.vi" Type="VI" URL="../Sinusoidal Extraction.vi"/>
