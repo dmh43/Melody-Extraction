@@ -10,10 +10,10 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="dB.vi" Type="VI" URL="../../../Health Tracker/Pulse-Oximetry/dB.vi"/>
+		<Item Name="test VIs" Type="Folder" URL="../test VIs">
+			<Property Name="NI.DISK" Type="Bool">true</Property>
+		</Item>
 		<Item Name="Melody Extraction.lvlib" Type="Library" URL="../Melody Extraction.lvlib"/>
-		<Item Name="test_Find peaks.vi" Type="VI" URL="../test VIs/test_Find peaks.vi"/>
-		<Item Name="test_Spectral transform.vi" Type="VI" URL="../test VIs/test_Spectral transform.vi"/>
 		<Item Name="Window Calc.vi" Type="VI" URL="../Window Calc.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">

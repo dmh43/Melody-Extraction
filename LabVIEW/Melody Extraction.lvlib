@@ -4,11 +4,16 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">335577088</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
-	<Item Name="Create waveform.vi" Type="VI" URL="../Create waveform.vi"/>
-	<Item Name="dt_global.vi" Type="VI" URL="../dt_global.vi"/>
-	<Item Name="Find peaks.vi" Type="VI" URL="../Find peaks.vi"/>
-	<Item Name="Get_data.vi" Type="VI" URL="../Get_data.vi"/>
-	<Item Name="ms to samples.vi" Type="VI" URL="../ms to samples.vi"/>
-	<Item Name="Sinusoidal Extraction.vi" Type="VI" URL="../Sinusoidal Extraction.vi"/>
-	<Item Name="Spectral Transform.vi" Type="VI" URL="../Spectral Transform.vi"/>
+	<Item Name="Front end" Type="Folder">
+		<Property Name="NI.SortType" Type="Int">3</Property>
+		<Item Name="Spectral Transform.vi" Type="VI" URL="../Spectral Transform.vi"/>
+		<Item Name="Find peaks.vi" Type="VI" URL="../Find peaks.vi"/>
+		<Item Name="Sinusoidal Extraction.vi" Type="VI" URL="../Sinusoidal Extraction.vi"/>
+	</Item>
+	<Item Name="Support" Type="Folder">
+		<Item Name="Create waveform.vi" Type="VI" URL="../Create waveform.vi"/>
+		<Item Name="dt_global.vi" Type="VI" URL="../dt_global.vi"/>
+		<Item Name="Get_data.vi" Type="VI" URL="../Get_data.vi"/>
+		<Item Name="ms to samples.vi" Type="VI" URL="../ms to samples.vi"/>
+	</Item>
 </Library>
