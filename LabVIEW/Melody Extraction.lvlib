@@ -9,9 +9,11 @@
 		<Item Name="Spectral Transform.vi" Type="VI" URL="../Spectral Transform.vi"/>
 		<Item Name="Find peaks.vi" Type="VI" URL="../Find peaks.vi"/>
 		<Item Name="Sinusoidal Extraction.vi" Type="VI" URL="../Sinusoidal Extraction.vi"/>
+		<Item Name="Freq_amp_Corr.vi" Type="VI" URL="../Freq_amp_Corr.vi"/>
 	</Item>
 	<Item Name="Support" Type="Folder">
 		<Item Name="Create waveform.vi" Type="VI" URL="../Create waveform.vi"/>
+		<Item Name="dB.vi" Type="VI" URL="../../../Health Tracker/Pulse-Oximetry/dB.vi"/>
 		<Item Name="dt_global.vi" Type="VI" URL="../dt_global.vi"/>
 		<Item Name="Get_data.vi" Type="VI" URL="../Get_data.vi"/>
 		<Item Name="ms to samples.vi" Type="VI" URL="../ms to samples.vi"/>
