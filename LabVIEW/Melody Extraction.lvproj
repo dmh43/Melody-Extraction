@@ -13,8 +13,10 @@
 		<Item Name="test VIs" Type="Folder" URL="../test VIs">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
-		<Item Name="Calculate B.vi" Type="VI" URL="../Calculate B.vi"/>
+		<Item Name="Calculate bin.vi" Type="VI" URL="../Calculate bin.vi"/>
 		<Item Name="Calculate E.vi" Type="VI" URL="../Calculate E.vi"/>
+		<Item Name="Calculate G.vi" Type="VI" URL="../Calculate G.vi"/>
+		<Item Name="Calculate S.vi" Type="VI" URL="../Calculate S.vi"/>
 		<Item Name="Melody Extraction.lvlib" Type="Library" URL="../Melody Extraction.lvlib"/>
 		<Item Name="Window Calc.vi" Type="VI" URL="../Window Calc.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
