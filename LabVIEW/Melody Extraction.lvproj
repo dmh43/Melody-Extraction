@@ -17,6 +17,7 @@
 		<Item Name="Calculate E.vi" Type="VI" URL="../Calculate E.vi"/>
 		<Item Name="Calculate G.vi" Type="VI" URL="../Calculate G.vi"/>
 		<Item Name="Calculate S.vi" Type="VI" URL="../Calculate S.vi"/>
+		<Item Name="Delete elements in array.vi" Type="VI" URL="../Delete elements in array.vi"/>
 		<Item Name="Melody Extraction.lvlib" Type="Library" URL="../Melody Extraction.lvlib"/>
 		<Item Name="Window Calc.vi" Type="VI" URL="../Window Calc.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
