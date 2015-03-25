@@ -14,8 +14,17 @@
 	<Item Name="Support" Type="Folder">
 		<Item Name="Create waveform.vi" Type="VI" URL="../Create waveform.vi"/>
 		<Item Name="dB.vi" Type="VI" URL="../../../Health Tracker/Pulse-Oximetry/dB.vi"/>
+		<Item Name="Delete elements in array.vi" Type="VI" URL="../Delete elements in array.vi"/>
 		<Item Name="dt_global.vi" Type="VI" URL="../dt_global.vi"/>
 		<Item Name="Get_data.vi" Type="VI" URL="../Get_data.vi"/>
 		<Item Name="ms to samples.vi" Type="VI" URL="../ms to samples.vi"/>
+		<Item Name="Remove Trailing 0s.vi" Type="VI" URL="../Remove Trailing 0s.vi"/>
 	</Item>
+	<Item Name="Calculate bin.vi" Type="VI" URL="../Calculate bin.vi"/>
+	<Item Name="Calculate E.vi" Type="VI" URL="../Calculate E.vi"/>
+	<Item Name="Calculate G.vi" Type="VI" URL="../Calculate G.vi"/>
+	<Item Name="Calculate S.vi" Type="VI" URL="../Calculate S.vi"/>
+	<Item Name="Cleanup Arrays.vi" Type="VI" URL="../Cleanup Arrays.vi"/>
+	<Item Name="Peak Filtering.vi" Type="VI" URL="../Peak Filtering.vi"/>
+	<Item Name="Salience Function.vi" Type="VI" URL="../Salience Function.vi"/>
 </Library>

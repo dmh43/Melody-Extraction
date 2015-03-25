@@ -10,16 +10,13 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Etc" Type="Folder">
+			<Item Name="Window Calc.vi" Type="VI" URL="../Window Calc.vi"/>
+		</Item>
 		<Item Name="test VIs" Type="Folder" URL="../test VIs">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
-		<Item Name="Calculate bin.vi" Type="VI" URL="../Calculate bin.vi"/>
-		<Item Name="Calculate E.vi" Type="VI" URL="../Calculate E.vi"/>
-		<Item Name="Calculate G.vi" Type="VI" URL="../Calculate G.vi"/>
-		<Item Name="Calculate S.vi" Type="VI" URL="../Calculate S.vi"/>
-		<Item Name="Delete elements in array.vi" Type="VI" URL="../Delete elements in array.vi"/>
 		<Item Name="Melody Extraction.lvlib" Type="Library" URL="../Melody Extraction.lvlib"/>
-		<Item Name="Window Calc.vi" Type="VI" URL="../Window Calc.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="3D Plot Datatype.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/Math Plots/3D Math Plots/3D Plot/3D Plot Datatype/3D Plot Datatype.lvclass"/>
