@@ -20,6 +20,7 @@
 		<Item Name="Calculate G.vi" Type="VI" URL="../Calculate G.vi"/>
 		<Item Name="Calculate S.vi" Type="VI" URL="../Calculate S.vi"/>
 		<Item Name="Cleanup Arrays.vi" Type="VI" URL="../Cleanup Arrays.vi"/>
+		<Item Name="Create Bundles.vi" Type="VI" URL="../Create Bundles.vi"/>
 		<Item Name="Salience Function.vi" Type="VI" URL="../Salience Function.vi"/>
 	</Item>
 	<Item Name="Support" Type="Folder">
