@@ -4,12 +4,23 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">335577088</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
+	<Item Name="Contour Creation" Type="Folder">
+		<Item Name="Peak Filtering.vi" Type="VI" URL="../Peak Filtering.vi"/>
+	</Item>
 	<Item Name="Front end" Type="Folder">
 		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Item Name="Spectral Transform.vi" Type="VI" URL="../Spectral Transform.vi"/>
-		<Item Name="Find peaks.vi" Type="VI" URL="../Find peaks.vi"/>
 		<Item Name="Sinusoidal Extraction.vi" Type="VI" URL="../Sinusoidal Extraction.vi"/>
+		<Item Name="Find peaks.vi" Type="VI" URL="../Find peaks.vi"/>
 		<Item Name="Freq_amp_Corr.vi" Type="VI" URL="../Freq_amp_Corr.vi"/>
+	</Item>
+	<Item Name="Salience Function" Type="Folder">
+		<Item Name="Calculate bin.vi" Type="VI" URL="../Calculate bin.vi"/>
+		<Item Name="Calculate E.vi" Type="VI" URL="../Calculate E.vi"/>
+		<Item Name="Calculate G.vi" Type="VI" URL="../Calculate G.vi"/>
+		<Item Name="Calculate S.vi" Type="VI" URL="../Calculate S.vi"/>
+		<Item Name="Cleanup Arrays.vi" Type="VI" URL="../Cleanup Arrays.vi"/>
+		<Item Name="Salience Function.vi" Type="VI" URL="../Salience Function.vi"/>
 	</Item>
 	<Item Name="Support" Type="Folder">
 		<Item Name="Create waveform.vi" Type="VI" URL="../Create waveform.vi"/>
@@ -20,11 +31,5 @@
 		<Item Name="ms to samples.vi" Type="VI" URL="../ms to samples.vi"/>
 		<Item Name="Remove Trailing 0s.vi" Type="VI" URL="../Remove Trailing 0s.vi"/>
 	</Item>
-	<Item Name="Calculate bin.vi" Type="VI" URL="../Calculate bin.vi"/>
-	<Item Name="Calculate E.vi" Type="VI" URL="../Calculate E.vi"/>
-	<Item Name="Calculate G.vi" Type="VI" URL="../Calculate G.vi"/>
-	<Item Name="Calculate S.vi" Type="VI" URL="../Calculate S.vi"/>
-	<Item Name="Cleanup Arrays.vi" Type="VI" URL="../Cleanup Arrays.vi"/>
-	<Item Name="Peak Filtering.vi" Type="VI" URL="../Peak Filtering.vi"/>
-	<Item Name="Salience Function.vi" Type="VI" URL="../Salience Function.vi"/>
+	<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 </Library>
